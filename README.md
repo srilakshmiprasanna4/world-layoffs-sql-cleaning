@@ -1,2 +1,10 @@
 # world-layoffs-sql-cleaning
-SQL-based data cleaning project for global layoffs data. This project transforms raw layoff records into a clean, analysis-ready dataset by applying SQL techniques such as deduplication, null handling, standardization, and formatting
+This project involves cleaning a dataset of global layoffs using SQL. The raw data contains information on company layoffs across different industries and countries. Using SQL queries, the data is cleaned by removing duplicates, handling missing values, standardizing formats such as dates, and preparing it for accurate analysis. The goal is to create a clean, consistent, and analysis-ready dataset suitable for reporting or further insights.
+
+## Cleaning Steps
+**Data Import**
+**Duplicate Removal**
+**Standardization**
+**Null Handling**
+
+
