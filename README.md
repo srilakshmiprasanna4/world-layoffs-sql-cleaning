@@ -9,11 +9,11 @@ The dataset was obtained from kaggle. It includes information such as:
 - Total laid off
 
 ## Cleaning Steps
--Data Import
--Duplicate Removal
--Standardization
--Null Handling
--Filtering
+- Data Import
+- Duplicate Removal
+- Standardization
+- Null Handling
+- Filtering
 
 ## Example Use Cases
 - Analyze layoff trends by industry or country
